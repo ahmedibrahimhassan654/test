@@ -27,7 +27,7 @@ npm run dev
 ## Authors
 
 ```javascript
-const life: Ahmed Ibrahim = {
+const developer : Ahmed Ibrahim = {
   greet: "Hi 👋, I'm Ahmed Ibrahim MERN Stack WEB Developer  ",
   bio: 'A passionate engineer love cooding . from Egypt',
   currentlyLearning: 'advanced full stack udacity nano degree',
